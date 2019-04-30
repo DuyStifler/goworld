@@ -7,12 +7,12 @@ import (
 
 	"strconv"
 
-	"github.com/xiaonanln/goworld"
-	"github.com/xiaonanln/goworld/engine/common"
-	"github.com/xiaonanln/goworld/engine/consts"
-	"github.com/xiaonanln/goworld/engine/entity"
-	"github.com/xiaonanln/goworld/engine/gwlog"
-	"github.com/xiaonanln/goworld/ext/pubsub"
+	"../../../goworld"
+	"../../../goworld/engine/common"
+	"../../../goworld/engine/consts"
+	"../../../goworld/engine/entity"
+	"../../../goworld/engine/gwlog"
+	"../../../goworld/ext/pubsub"
 	"github.com/xiaonanln/typeconv"
 )
 

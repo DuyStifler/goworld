@@ -13,9 +13,10 @@ import (
 	"os"
 
 	"github.com/xiaonanln/goTimer"
-	"github.com/xiaonanln/goworld/engine/binutil"
-	"github.com/xiaonanln/goworld/engine/config"
-	"github.com/xiaonanln/goworld/engine/gwlog"
+
+	"../../../goworld/engine/binutil"
+	"../../../goworld/engine/config"
+	"../../../goworld/engine/gwlog"
 )
 
 var (

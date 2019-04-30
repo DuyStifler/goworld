@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/xiaonanln/goworld"
-	"github.com/xiaonanln/goworld/engine/entity"
+	"../../../goworld"
+	"../../../goworld/engine/entity"
 )
 
 // AOITester type

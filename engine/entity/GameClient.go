@@ -3,11 +3,11 @@ package entity
 import (
 	"fmt"
 
-	"github.com/xiaonanln/goworld/engine/common"
-	"github.com/xiaonanln/goworld/engine/consts"
-	"github.com/xiaonanln/goworld/engine/dispatchercluster"
-	"github.com/xiaonanln/goworld/engine/dispatchercluster/dispatcherclient"
-	"github.com/xiaonanln/goworld/engine/gwlog"
+	"../../../goworld/engine/common"
+	"../../../goworld/engine/consts"
+	"../../../goworld/engine/dispatchercluster"
+	"../../../goworld/engine/dispatchercluster/dispatcherclient"
+	"../../../goworld/engine/gwlog"
 )
 
 // GameClient represents the game Client of entity

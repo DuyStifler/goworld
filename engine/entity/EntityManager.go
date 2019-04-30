@@ -6,13 +6,14 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	"github.com/xiaonanln/goworld/engine/common"
-	"github.com/xiaonanln/goworld/engine/consts"
-	"github.com/xiaonanln/goworld/engine/dispatchercluster"
-	"github.com/xiaonanln/goworld/engine/gwlog"
-	"github.com/xiaonanln/goworld/engine/gwutils"
-	"github.com/xiaonanln/goworld/engine/storage"
 	"github.com/xiaonanln/typeconv"
+
+	"../../../goworld/engine/common"
+	"../../../goworld/engine/consts"
+	"../../../goworld/engine/dispatchercluster"
+	"../../../goworld/engine/gwlog"
+	"../../../goworld/engine/gwutils"
+	"../../../goworld/engine/storage"
 )
 
 var (

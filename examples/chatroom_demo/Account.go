@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/xiaonanln/goworld"
-	"github.com/xiaonanln/goworld/engine/common"
-	"github.com/xiaonanln/goworld/engine/entity"
-	"github.com/xiaonanln/goworld/engine/gwlog"
+	"../../../goworld"
+	"../../../goworld/engine/common"
+	"../../../goworld/engine/entity"
+	"../../../goworld/engine/gwlog"
 )
 
 // Account 是账号对象类型，用于处理注册、登录逻辑

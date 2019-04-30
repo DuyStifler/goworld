@@ -5,9 +5,9 @@ import (
 
 	"regexp"
 
-	"github.com/xiaonanln/goworld/engine/common"
-	"github.com/xiaonanln/goworld/engine/entity"
-	"github.com/xiaonanln/goworld/engine/gwlog"
+	"../../../goworld/engine/common"
+	"../../../goworld/engine/entity"
+	"../../../goworld/engine/gwlog"
 )
 
 // Avatar 对象代表一名玩家

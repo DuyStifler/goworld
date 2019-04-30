@@ -4,10 +4,10 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/xiaonanln/goworld"
-	"github.com/xiaonanln/goworld/engine/common"
-	"github.com/xiaonanln/goworld/engine/entity"
-	"github.com/xiaonanln/goworld/engine/gwlog"
+	"../../../goworld"
+	"../../../goworld/engine/common"
+	"../../../goworld/engine/entity"
+	"../../../goworld/engine/gwlog"
 )
 
 // Account entity for login process

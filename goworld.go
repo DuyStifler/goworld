@@ -4,14 +4,16 @@ import (
 	"time"
 
 	"github.com/xiaonanln/goTimer"
-	"github.com/xiaonanln/goworld/components/game"
-	"github.com/xiaonanln/goworld/engine/common"
-	"github.com/xiaonanln/goworld/engine/crontab"
-	"github.com/xiaonanln/goworld/engine/entity"
-	"github.com/xiaonanln/goworld/engine/kvdb"
-	"github.com/xiaonanln/goworld/engine/post"
-	"github.com/xiaonanln/goworld/engine/service"
-	"github.com/xiaonanln/goworld/engine/storage"
+
+	"../goworld/components/game"
+
+	"../goworld/engine/common"
+	"../goworld/engine/crontab"
+	"../goworld/engine/entity"
+	"../goworld/engine/kvdb"
+	"../goworld/engine/post"
+	"../goworld/engine/service"
+	"../goworld/engine/storage"
 )
 
 // Export useful types
